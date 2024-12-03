@@ -15,7 +15,7 @@ name = "button"
 path = "examples/button.rs"
 
 [dependencies]
-dioxus = "0.6.0-alpha.3"
+dioxus = "0.6.0-rc.0"
 
 [dev-dependencies]
-dioxus = { version = "0.6.0-alpha.3", features = ["desktop"] }
+dioxus = { version = "0.6.0-rc.0", features = ["desktop"] }
